@@ -1,5 +1,5 @@
 #!/usr/bin/python3.8
-from instascrape import *
+from instascrape import *  #Note that in order to install this package via pip or on your IDE, it's under the name "insta-scrape"
 
 headers = {
     "user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 Edg/87.0.664.57",
